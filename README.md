@@ -35,5 +35,5 @@
 ---
 
 ### ✍️ Latest Medium Articles
-- [Desktop Voice Assistant in Python]()
+- [Desktop Voice Assistant in Python](https://medium.com/@tandelvrushali1607/desktop-voice-assistant-in-python-b7d100446a88)
 - [House Price Prediction: Step-by-Step ML Project](https://medium.com/@tandelvrushali1607/house-price-prediction-step-by-step-37bc730ac0f5)
