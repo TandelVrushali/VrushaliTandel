@@ -1,7 +1,7 @@
 # Hi, I'm Vrushali Tandel 👋
 
 🎓 MSc Advanced Computer Science — University of Leicester (Merit)  
-💻 Junior Software Developer | PHP · Python · Java · SQL  
+💻 Junior Software Developer | Java · PHP · Python · SQL  
 🤖 ML & Data enthusiast | scikit-learn · pandas · Power BI  
 ✍️ Published technical author on [Medium](https://medium.com/@tandelvrushali1607)  
 📚 Currently: Amazon Junior Software Developer Certificate (Coursera)  
@@ -11,8 +11,8 @@
 
 ### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -36,4 +36,4 @@
 
 ### ✍️ Latest Medium Articles
 - [Desktop Voice Assistant in Python]()
-- [House Price Prediction: Step-by-Step ML Project]()
+- [House Price Prediction: Step-by-Step ML Project](https://medium.com/@tandelvrushali1607/house-price-prediction-step-by-step-37bc730ac0f5)
