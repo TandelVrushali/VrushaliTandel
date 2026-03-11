@@ -3,7 +3,7 @@
 🎓 MSc Advanced Computer Science — University of Leicester (Merit)  
 💻 Junior Software Developer | PHP · Python · Java · SQL  
 🤖 ML & Data enthusiast | scikit-learn · pandas · Power BI  
-✍️ Published technical author on [Medium](https://vrushalitandel1.medium.com)  
+✍️ Published technical author on [Medium](https://medium.com/@tandelvrushali1607) 
 📚 Currently: Amazon Junior Software Developer Certificate (Coursera)  
 🏆 National Hackathon Participant | NPTEL Elite Certificates
 
@@ -36,5 +36,5 @@
 ---
 
 ### ✍️ Latest Medium Articles
-- [Desktop Voice Assistant in Python](https://vrushalitandel1.medium.com/desktop-voice-assistant-in-python-3b4d4e582a5a)
-- [House Price Prediction: Step-by-Step ML Project](https://vrushalitandel1.medium.com/housing-price-prediction-step-by-step-implementation-of-machine-learning-project-9939e6c7c59e)
+- [Desktop Voice Assistant in Python](https://medium.com/@tandelvrushali1607/desktop-voice-assistant-in-python-b7d100446a88)
+- [House Price Prediction: Step-by-Step ML Project](https://medium.com/@tandelvrushali1607/house-price-prediction-step-by-step-37bc730ac0f5)
