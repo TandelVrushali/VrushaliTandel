@@ -26,9 +26,9 @@
 
 | Project | Tech | Description |
 |---------|------|-------------|
-| 🏠 [House Price Prediction](https://github.com/TandelVrushali/House-price-prediction)) | Python, scikit-learn | Random Forest regression · RMSE 3.49 · Full ML pipeline |
+| 🏠 [House Price Prediction](https://github.com/TandelVrushali/House-price-prediction) | Python, scikit-learn | Random Forest regression · RMSE 3.49 · Full ML pipeline |
 | 🎤 [Desktop Voice Assistant](https://github.com/TandelVrushali/Desktop-voice-assistant)| Python, SpeechRecognition | 15+ voice commands · tkinter GUI · Published on Medium |
-| 🎓 [Student Choice Allocator](https://github.com/TandelVrushali/Student-choice-allocator)) | PHP, Bootstrap, PHPUnit | Web allocation system · 40% effort reduction |
+| 🎓 [Student Choice Allocator](https://github.com/TandelVrushali/Student-choice-allocator) | PHP, Bootstrap, PHPUnit | Web allocation system · 40% effort reduction |
 
 ---
 
