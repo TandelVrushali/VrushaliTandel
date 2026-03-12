@@ -26,12 +26,9 @@
 
 | Project | Tech | Description |
 |---------|------|-------------|
-| 🏠 [House Price Prediction](link) | Python, scikit-learn | Random Forest regression · RMSE 3.04 · Full ML pipeline |
-| 🎤 [Desktop Voice Assistant](link) | Python, SpeechRecognition | 15+ voice commands · tkinter GUI · Published on Medium |
-| 🦁 [Java Zoo — OOP Demo](link) | Java | Abstract classes · Interfaces · Polymorphism |
-| 🏃 [Human Activity Recognition](link) | Python, scikit-learn | Accelerometer-based activity classifier |
-| 🗑️ [Smart Dustbin App](https://github.com/VrushaliTandel/smartDustbin) | Android, Firebase, IoT | Waste management system with mobile app |
-| 🎓 [Student Choice Allocator](link) | PHP, Bootstrap, PHPUnit | Web allocation system · 40% effort reduction |
+| 🏠 [House Price Prediction](https://github.com/TandelVrushali/House-price-prediction)) | Python, scikit-learn | Random Forest regression · RMSE 3.49 · Full ML pipeline |
+| 🎤 [Desktop Voice Assistant](https://github.com/TandelVrushali/Desktop-voice-assistant)| Python, SpeechRecognition | 15+ voice commands · tkinter GUI · Published on Medium |
+| 🎓 [Student Choice Allocator](https://github.com/TandelVrushali/Student-choice-allocator)) | PHP, Bootstrap, PHPUnit | Web allocation system · 40% effort reduction |
 
 ---
 
