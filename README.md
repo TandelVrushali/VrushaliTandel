@@ -4,7 +4,6 @@
 💻 Junior Software Developer | PHP · Python · Java · SQL  
 🤖 ML & Data enthusiast | scikit-learn · pandas · Power BI  
 ✍️ Published technical author on [Medium](https://medium.com/@tandelvrushali1607) 
-
 📚 Currently: Amazon Junior Software Developer Certificate (Coursera)  
 🏆 National Hackathon Participant | NPTEL Elite Certificates
 
